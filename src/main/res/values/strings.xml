@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Green Lantern</string>
+    <string name="question1title">Question 1</string>
+    <string name="question2title">Question 2</string>
+    <string name="question3title">Question 3</string>
+    <string name="question4title">Question 4</string>
+    <string name="question5title">Question 5</string>
+    <string name="question1">Which lantern rings approached Batman in Blackest night</string>
+    <string name="answerYellow">Yellow</string>
+    <string name="answerBlack">Black</string>
+    <string name="answerBlue">Blue</string>
+    <string name="question2">Which year was the Blackest night story line published?</string>
+    <string name="answer2009">2009</string>
+    <string name="answer2002">2002</string>
+    <string name="answer2016">2016</string>
+    <string name="question3">What\'s the last name of the most famous Green Lantern?</string>
+    <string name="LastNameHalHint">Most famous Green Lantern</string>
+    <string name="question4">Parrallax is the Embodiment of what emotion? </string>
+    <string name="answerBorderlands">Fear</string>
+    <string name="question5">Hal Jordan was a member of which lantern cores?</string>
+    <string name="submit">Submit</string>
+    <string name="answerBioShock">Rage</string>
+    <string name="answerGreen">Green</string>
+    <string name="answerRed">Red</string>
+    <string name="answerBlue2">Blue</string>
+</resources>
